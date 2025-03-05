@@ -20,4 +20,11 @@ It calculates your exact age and continuously updates the total time you've live
 - **JavaScript** → Logic (age calculation & live timer)  
 
 ## Installation
-1. Clone the repo:  
+1. Clone the repo:
+   https://github.com/ArkSrivastava/ChronoTrack---Age-Life-Duration-Calculator.git
+2. Open `index.html` in your browser  
+3. Enjoy tracking your life stats! 🎉  
+
+## License
+MIT License 📝
+ 
